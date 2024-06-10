@@ -1,7 +1,6 @@
 # Wallpaper Saga
 
 Wallpaper Saga is a React Native application that allows users to browse and download high-quality wallpapers. Utilizing the Pexels API, users can explore a vast collection of stunning wallpapers and personalize their device screens with ease.
-
 ## Table of Contents
 
 - [Features](#features)
