@@ -40,7 +40,6 @@ To get started with Wallpaper Saga, follow these steps:
    ```sh
    npx expo start
    ```
-
 4. **Set up your environment variables:**
 
    Create a `.env` file in the root directory and add your Pexels API key:
